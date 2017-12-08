@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-servlet/1.17.1/454eedda49de804f0513e01b9c78e3025e8ec412/jersey-servlet-1.17.1-sources.jar" kind="lib" path="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-servlet/1.17.1/36097a2966e9b989fbca6f7f579def99a91b29ad/jersey-servlet-1.17.1.jar"/>
+	<classpathentry sourcepath="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-server/1.17.1/e68fe32ef46e70bc7336b441c486cf5ef60b5474/jersey-server-1.17.1-sources.jar" kind="lib" path="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-server/1.17.1/c5aa1109d50d11e3f0dca3af7ba94448255443e2/jersey-server-1.17.1.jar"/>
+	<classpathentry sourcepath="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar" kind="lib" path="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/60e85d4f638fb444bcbbd9f8da83414fbdf731c3/jersey-client-1.18.1.jar"/>
+	<classpathentry sourcepath="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-core/1.18.1/e73b5e4421b7fde0544707b02c6793312009be95/jersey-core-1.18.1-sources.jar" kind="lib" path="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-core/1.18.1/4f97b0f85a881d3b3478f99a17df7bd258b9d626/jersey-core-1.18.1.jar"/>
+	<classpathentry sourcepath="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/asm/asm/3.1/2eaa4de56203f433f287a6df5885ef9ad3c5bcae/asm-3.1-sources.jar" kind="lib" path="C:/Users/vijaykumar/.gradle/caches/modules-2/files-2.1/asm/asm/3.1/c157def142714c544bdea2e6144645702adf7097/asm-3.1.jar"/>
+</classpath>

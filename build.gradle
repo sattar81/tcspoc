@@ -1,0 +1,33 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+     
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+ 
+
+jar {
+    baseName = 'gs-rest-service'
+    version =  '0.1.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    //compile 'org.glassfish.jersey.containers:jersey-container-servlet:2.25.1'
+    compile 'com.sun.jersey:jersey-core:1.17.1'
+    compile 'com.sun.jersey:jersey-server:1.17.1'
+    compile 'com.sun.jersey:jersey-servlet:1.17.1'     
+    compile 'com.sun.jersey:jersey-client:1.18.1'
+  //  compile  'org.json:json :20090211'
+    compile group: 'org.json', name: 'json', version: '20090211'
+}
+
