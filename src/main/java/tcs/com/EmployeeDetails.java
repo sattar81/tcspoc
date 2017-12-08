@@ -32,6 +32,7 @@ public class EmployeeDetails {
 	}
 	
 	public String toString() {
+		
 		return "Name:"+name+" EmpNum:"+empNum+" Address:"+Address;
 		// TODO Auto-generated constructor stub
 	}
